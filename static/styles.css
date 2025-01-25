@@ -1,0 +1,10 @@
+/* styles.css */
+a {
+    font-family: 'Arial', sans-serif;
+    font-size: 100px;
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
